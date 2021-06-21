@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[Image](https://github.com/brendanposehn/Portfolio/blob/gh-pages/media/LiNAC.jpg)
+![Image](https://github.com/brendanposehn/Portfolio/blob/gh-pages/media/LiNAC.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
